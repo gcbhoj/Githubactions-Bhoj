@@ -1,4 +1,4 @@
-name: dependent job
+name: Multi platform Jobs
 
 on: push
 
